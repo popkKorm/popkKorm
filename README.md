@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @popkKorm
 - 👀 I’m interested in Модой
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning просто учусь 
+- 💞️ I’m looking to над всем 
+- 📫 How to reach пиши
 
 <!---
 popkKorm/popkKorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
